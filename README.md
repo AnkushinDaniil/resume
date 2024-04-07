@@ -12,7 +12,7 @@
 Fullstack (web2), smart contracts, physical computation algorithms, neural networks, production automation and optimization development.
 
 ## Skills
-- Programming Languages: go, solidity, typescript, python, scheme
+- Programming Languages: go, solidity, typescript, python
 - Tools: git, docker
 - Methodologies: clean archiecture, feature-sliced design
 
