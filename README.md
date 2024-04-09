@@ -17,12 +17,14 @@ Fullstack (web2), smart contracts, physical computation algorithms, neural netwo
 - Methodologies: clean archiecture, feature-sliced design
 
 ## Projects
-- [Go backend for tattoo studio](https://github.com/AnkushinDaniil/webStudio/tree/main)
-- [React frontend for tattoo studio](https://github.com/AnkushinDaniil/webStudioFrontend)
-- [Tattoo studio's smart comtract](https://github.com/AnkushinDaniil/studio)
-- [Erbium doped amplifiers production for fiber-optic communication line](https://xn--e1ahdckegffejda6k5a1a.xn--p1ai/en/)
-- Distributed polarization crosstalk (X-Talk) analyzer (birefringence dispersion compensation algorithm development)
-- Automatic algorithm for detection and classification of microparticles on digital axial holograms
+- ### Fullstack project for tattoo studio: [backend](https://github.com/AnkushinDaniil/webStudio/tree/main), [React frontend](https://github.com/AnkushinDaniil/webStudioFrontend), [smart contract](https://github.com/AnkushinDaniil/studio)
+  This project allows tattoo masters to register and book time slots for tattoo sessions via the website or smart contract.
+  - ### [Erbium doped amplifiers production for fiber-optic communication line](https://xn--e1ahdckegffejda6k5a1a.xn--p1ai/en/)
+The purpose of this project is to provide fiber optic Internet connection between Murmansk and Vladivostok.
+- ### Distributed polarization crosstalk (X-Talk) analyzer (birefringence dispersion compensation algorithm development)
+This project is my master's thesis and its goal is to create an algorithm to compensate for negative nonlinear effect in PM fibers. 
+- ### Automatic algorithm for detection and classification of microparticles on digital axial holograms
+  The unique feature of the combination of these technologies is the ability to detect transparent microparticles in water in 3D.
 
 ## Experience
 ### ITMO University (03.2019 - present)
