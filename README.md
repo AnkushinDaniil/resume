@@ -18,9 +18,9 @@ Fullstack (web2), smart contracts, physical computation algorithms, production a
 
 ## Projects
 - ### Fullstack project for tattoo studio: [backend](https://github.com/AnkushinDaniil/webStudio/tree/main), [React frontend](https://github.com/AnkushinDaniil/webStudioFrontend), [smart contract](https://github.com/AnkushinDaniil/studio)
-  - Developed backend using clean architecture and REST (go, docker, postgres)
-  - Developed frontend using feature-sliced design (react, typescript)
-  - Developed smart contract (solidity, hardhat)
+  - Implemented clean architecture and REST principles in backend development (Go, Docker, PostgreSQL)
+  - Applied feature-sliced design to front-end development (React, TypeScript)
+  - Developed a smart contract (Solidity, Hardhat)
 - ### [Erbium Doped Fiber Amplifier (EDFA) production for fiber optic communication line](https://xn--e1ahdckegffejda6k5a1a.xn--p1ai/en/)
   - Conducted research on production efficiency and reliability of EDFA
   - Developed and optimized software tools to reduce the human factor
@@ -42,7 +42,7 @@ Fullstack (web2), smart contracts, physical computation algorithms, production a
 - Master's degree: [**ITMO University**, Light Guide Photonics and Programmable Electronics](https://en.itmo.ru/en/department/457/nauchno-issledovatelskiy_centr_svetovodnoy_fotoniki.htm) (2021 - 2023)
 
 ## Achievements
-- Winner of the Student Startup Grant Competition (~$10,000; [Results, №19](https://www.fasie.ru/upload/docs/Sts_results_1.pdf))
+- Winner of the Student Startup Grant Competition ([Results, №19](https://www.fasie.ru/upload/docs/Sts_results_1.pdf))
 - [Winner of the nomination "For the best report by a young scientist"](https://drive.google.com/file/d/1-zLvct8xOBqMuRvexu-b0ni1SHmA6ztR/view?usp=sharing)
 - [Best Graduate of ITMO 2023](https://live.itmo.ru/championship#m4)
 - [II degree in the competition for the best R&D among 2023 graduates](https://drive.google.com/file/d/1X-V_jn1ViljGGBHHe6bJwX0JRAfRNAti/view?usp=sharing)
