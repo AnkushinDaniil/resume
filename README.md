@@ -1,7 +1,7 @@
 # Daniil Ankushin
 
 ## Contact Information
-- Email: ankushin.daniil42@gmail.com
+- <ankushin.daniil42@gmail.com>
 - [LinkedIn](https://www.linkedin.com/in/daniil-ankushin/)
 - [GitHub](https://github.com/AnkushinDaniil)
 - [Telegram](https://t.me/ankushin_d)
@@ -12,7 +12,7 @@
 Fullstack (web2), smart contracts, physical computation algorithms, production automation and optimization.
 
 ## Skills
-- Programming Languages: go, solidity, typescript, python
+- Programming Languages: Go, Solidity, Typescript, Python
 - Tools: git, docker
 - Methodologies: clean archiecture, REST, feature-sliced design
 
@@ -38,8 +38,8 @@ Fullstack (web2), smart contracts, physical computation algorithms, production a
 
 ## Education
 - High school: [Yugorsk Physics and Mathematics Boarding Lyceum](https://yufmli.gosuslugi.ru/) (2015 - 2017)
-- Bachelor's degree: [ITMO University, Photonics and Optical Information Technology](https://en.itmo.ru/en/faculty/124/nauchno-obrazovatelnyy_centr_fotoniki_i_optoinformatiki.htm) (2017 - 2021)
-- Master's degree: [ITMO University, Light Guide Photonics and Programmable Electronics](https://en.itmo.ru/en/department/457/nauchno-issledovatelskiy_centr_svetovodnoy_fotoniki.htm) (2021 - 2023)
+- Bachelor's degree: [**ITMO University**, Photonics and Optical Information Technology](https://en.itmo.ru/en/faculty/124/nauchno-obrazovatelnyy_centr_fotoniki_i_optoinformatiki.htm) (2017 - 2021)
+- Master's degree: [**ITMO University**, Light Guide Photonics and Programmable Electronics](https://en.itmo.ru/en/department/457/nauchno-issledovatelskiy_centr_svetovodnoy_fotoniki.htm) (2021 - 2023)
 
 ## Achivements
 - Winner of the Student Startup grant competition (~$10.000, [results, №19](https://www.fasie.ru/upload/docs/Sts_results_1.pdf))
