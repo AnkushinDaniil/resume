@@ -5,8 +5,6 @@
 - [LinkedIn](https://www.linkedin.com/in/daniil-ankushin/)
 - [GitHub](https://github.com/AnkushinDaniil)
 - [Telegram](https://t.me/ankushin_d)
-- [Leetcode](https://leetcode.com/ankushin/)
-- [Blog](https://ankushindaniil.github.io/)
 
 ## Summary
 Fullstack (web2), smart contracts, physical computation algorithms, production automation and optimization.
