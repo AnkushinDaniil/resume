@@ -15,6 +15,7 @@ Hey there! I'm a software developer who's passionate about improving blockchain 
 
 ## Projects
 - ### Website for tattoo studio: [backend](https://github.com/AnkushinDaniil/webStudio/tree/main), [React frontend](https://github.com/AnkushinDaniil/webStudioFrontend), [smart contract](https://github.com/AnkushinDaniil/studio)
+  - This website is developed for tattoo masters to book timeslots in the tattoo studio with the ability to pay by ETH and book timeslots using ethereum storage.
   - Implemented clean architecture and REST principles in backend development (Go, Docker, PostgreSQL)
   - Applied feature-sliced design to front-end development (React, TypeScript)
   - Developed a smart contract (Solidity, Hardhat)
