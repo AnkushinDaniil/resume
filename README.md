@@ -7,7 +7,8 @@
 - [Telegram](https://t.me/ankushin_d)
 
 ## Summary
-Hey there! I'm a software developer who's passionate about improving blockchain technology to make the world a better place.
+I'm a software developer who's passionate about improving blockchain technology to make the world a better place.
+
 
 ## Skills
 - Programming Languages: Go, Solidity, Typescript, Python
@@ -15,17 +16,21 @@ Hey there! I'm a software developer who's passionate about improving blockchain 
 
 ## Projects
 - ### Website for tattoo studio: [backend](https://github.com/AnkushinDaniil/webStudio/tree/main), [React frontend](https://github.com/AnkushinDaniil/webStudioFrontend), [smart contract](https://github.com/AnkushinDaniil/studio)
-  - This website is developed for tattoo masters to book timeslots in the tattoo studio with the ability to pay by ETH and book timeslots using ethereum storage.
-  - Implemented clean architecture and REST principles in backend development (Go, Docker, PostgreSQL)
-  - Applied feature-sliced design to front-end development (React, TypeScript)
-  - Developed a smart contract (Solidity, Hardhat)
+  #### Go, Docker, PostgreSQL, React, TypeScript, Solidity, Hardhat
+  - This website is developed for tattoo masters to book timeslots in the tattoo studio with the ability to pay by ETH and book timeslots using Ethereum storage.
+  - Implemented clean architecture and REST principles in backend development
+  - Applied feature-sliced design to front-end development
+  - Developed a smart contract
 
-- ### [nft](https://github.com/AnkushinDaniil/hardhat-nft)
-  is a smart contract to mint NFTs and store them on [NFT storage](https://nft.storage/) (solidity, Javascript, hardhat)
-- ### [defi](https://github.com/AnkushinDaniil/hardhat-defi) 
-  is a project that allows users to lend and borrow using AAVE (solidity, Javascript, hardhat)
-- ### [lottery](https://github.com/AnkushinDaniil/hardhat-smartcontract-lottery)
-  is a smart contract enabling players to participate in a trustless, decentralized lottery (solidity, Javascript, hardhat)
+- ### [NFT factory](https://github.com/AnkushinDaniil/hardhat-nft)
+  #### Solidity, JavaScript, hardhat
+  This is a smart contract to mint NFTs and store them on [NFT storage](https://nft.storage/) 
+- ### [DEFI smart contract to interact with AAVE](https://github.com/AnkushinDaniil/hardhat-defi)
+  #### Solidity, JavaScript, hardhat 
+  This is a project that allows users to lend and borrow using AAVE
+- ### [Decentralized lottery on etherium](https://github.com/AnkushinDaniil/hardhat-smartcontract-lottery)
+  #### Solidity, JavaScript, hardhat
+  This is a smart contract enabling players to participate in a trustless, decentralized lottery 
     
 - ### Birefringence dispersion compensation algorithm
   - Conducted research on birefringence dispersion
@@ -35,7 +40,7 @@ Hey there! I'm a software developer who's passionate about improving blockchain 
   - Compensated single and weakly superimposed vision peaks without losing information. Achieved a spatial resolution of 32 cm and an accuracy of 4 cm.
   - The results were obtained on ESC-4 fiber with $∆𝐷≈{0.006 𝑝𝑠 \over (𝑘𝑚∙𝑛𝑚)}$ and a fiber length of $582 m$, but they can be scaled to other types of PMF.
   - **Rewards**:
-    - Winner of the Student Startup Grant Competition: Results, №19, [original](https://www.fasie.ru/upload/docs/Sts_results_1.pdf), [translation](https://docs.google.com/document/d/1b2-dH1GrnPDwWHw270QvpgjlqzL_uNIC5BLyGQY69bg/edit?usp=sharing))
+    - Winner of the Student Startup Grant Competition: Results, №19, [original](https://www.fasie.ru/upload/docs/Sts_results_1.pdf), [translation](https://docs.google.com/document/d/1b2-dH1GrnPDwWHw270QvpgjlqzL_uNIC5BLyGQY69bg/edit?usp=sharing)
     - Winner of the nomination "For the best report by a young scientist": [original](https://drive.google.com/file/d/1-zLvct8xOBqMuRvexu-b0ni1SHmA6ztR/view?usp=sharing), [translation](https://docs.google.com/document/d/1nANREi2h_vbZ0e8Asc91H2oPNt16DD5GyavvO2hpVrg/edit?usp=sharing)
 
 - ### Automatic algorithm for detection and classification of microparticles on digital axial holograms
@@ -44,11 +49,11 @@ Hey there! I'm a software developer who's passionate about improving blockchain 
   - Designed and implemented convolutional neural network for microparticle detection and classification (Python)
   
 - ### [Erbium Doped Fiber Amplifier (EDFA) production for fiber optic communication line](https://xn--e1ahdckegffejda6k5a1a.xn--p1ai/en/)
-  - EDFA is used instead of retranslators to increase small signal due to fiber losses. 
+  - EDFA is used instead of repeater to increase small signal due to fiber losses. 
   - Researched EDFA production process, resulting in 300% improvement in production efficiency and 1000% improvement in reliability.
   - Trained over 10 new employees
  
-## Experience
+## Work experience
   - Research And Development Engineer at ITMO University (Mar 2019 - Present)
 
 ## Education
