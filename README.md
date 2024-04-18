@@ -33,6 +33,7 @@ I'm a software developer who's passionate about improving blockchain technology 
   This is a smart contract enabling players to participate in a trustless, decentralized lottery 
     
 - ### Birefringence dispersion compensation algorithm
+  #### Python
   - Conducted research on birefringence dispersion
   - Developed a mathematical model solution
   - Designed and implemented an algorithm to solve this problem in practice (Python)
@@ -44,6 +45,7 @@ I'm a software developer who's passionate about improving blockchain technology 
     - Winner of the nomination "For the best report by a young scientist": [original](https://drive.google.com/file/d/1-zLvct8xOBqMuRvexu-b0ni1SHmA6ztR/view?usp=sharing), [translation](https://docs.google.com/document/d/1nANREi2h_vbZ0e8Asc91H2oPNt16DD5GyavvO2hpVrg/edit?usp=sharing)
 
 - ### Automatic algorithm for detection and classification of microparticles on digital axial holograms
+  #### Python
   - Captured many digital holograms of transparent microparticles
   - Created a unique dataset of marked and classified microparticles on digital holograms
   - Designed and implemented convolutional neural network for microparticle detection and classification (Python)
